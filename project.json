@@ -1,6 +1,6 @@
 {
-  "name": "Web recording",
-  "description": "web recording",
+  "name": "Get Weather",
+  "description": "Get Weather Data for any city",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.0-preview]",
